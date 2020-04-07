@@ -1,0 +1,8 @@
+{ 	
+	"name": "com.rsg.promises", 	
+	"description": "RSG Promises",
+	"version": "0.0.1",
+	"unity": "2019.3", 
+	"displayName": "RSG Promises", 
+	"dependencies": {}
+}
